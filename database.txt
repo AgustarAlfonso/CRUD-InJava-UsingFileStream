@@ -1,0 +1,4 @@
+12201012101,Agustar Alfonso,Laki-laki,Teknik informatika,2021,3.75
+12201022201,Muhammad rizky ramadhan,Laki-laki,Hukum,2022,3.43
+12201012103,Muhammad zul asfi,Laki-laki,Teknik informatika,2021,3.65
+12201022001,Diki wahyudi,Laki-laki,Hukum,2020,3.45
